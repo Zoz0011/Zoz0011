@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360" role="img" aria-labelledby="title description">
+  <title id="title">Ziad Badea</title>
+  <desc id="description">Senior Computer Science Engineering student. Full-stack web and Flutter development. Build, Learn, Create, Grow.</desc>
+  <defs>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#05d9e8"/><stop offset="1" stop-color="#f24286"/></linearGradient>
+    <linearGradient id="background" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#08151c"/><stop offset="1" stop-color="#05070b"/></linearGradient>
+    <radialGradient id="glow"><stop stop-color="#05d9e8" stop-opacity=".1"/><stop offset="1" stop-color="#05d9e8" stop-opacity="0"/></radialGradient>
+    <pattern id="grid" width="48" height="48" patternUnits="userSpaceOnUse"><path d="M48 0H0V48" fill="none" stroke="#05d9e8" stroke-opacity=".055"/></pattern>
+  </defs>
+  <rect width="1200" height="360" rx="18" fill="url(#background)"/>
+  <rect width="1200" height="360" rx="18" fill="url(#grid)"/>
+  <ellipse cx="1050" cy="140" rx="420" ry="260" fill="url(#glow)"/>
+  <path d="M0 357H1200" stroke="url(#accent)" stroke-width="3"/>
+  <rect x="70" y="80" width="178" height="178" rx="28" fill="#081b24" stroke="url(#accent)" stroke-width="2"/>
+  <text x="159" y="192" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="82" font-weight="700" letter-spacing="-8" fill="url(#accent)">ZB</text>
+  <g font-family="Arial, Helvetica, sans-serif">
+    <text x="292" y="108" font-size="13" font-weight="700" letter-spacing="4" fill="#f24286">WEB · MOBILE · PRACTICAL SOLUTIONS</text>
+    <text x="289" y="172" font-size="55" font-weight="700" letter-spacing="-1.5" fill="#edf4fb">ZIAD <tspan fill="url(#accent)">BADEA</tspan></text>
+    <text x="292" y="213" font-size="22" fill="#b7c8d5">Senior Computer Science Engineering student</text>
+    <text x="292" y="249" font-size="17" fill="#05d9e8">Full-stack web and Flutter development</text>
+    <text x="292" y="291" font-size="13" letter-spacing="2.5" fill="#849aa9">BUILD · LEARN · CREATE · GROW</text>
+  </g>
+  <path d="M1128 78h-28m14-14v28M1075 280h35" stroke="#05d9e8" stroke-width="1.5" opacity=".35"/>
+</svg>
+
